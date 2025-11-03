@@ -1,0 +1,28 @@
+# === Node / React / Frontend ===
+node_modules/
+dist/
+build/
+.env
+*.log
+
+# === Python / Backend ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+.env
+
+# === Alembic / Migrations ===
+migrations/
+alembic/
+**/migrations/
+**/alembic/
+
+# === OS / IDE ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
